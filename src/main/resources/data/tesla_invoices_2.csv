@@ -1,0 +1,1001 @@
+referenceNumber;model;type;customerFullName
+1000;Cybertruck;Electric;Charles Brown
+1001;Model X;Hybrid;Michael Johnson
+1002;Model S;Electric;Barbara Williams
+1003;Model 3;Hybrid;Linda White
+1004;Model Y;Hybrid;Sarah Miller
+1005;Model X;Electric;James Davis
+1006;Model S;Hybrid;Mary Martinez
+1007;Roadster;Hybrid;Richard Jackson
+1008;Cybertruck;Electric;Barbara Jackson
+1009;Model Y;Electric;Jessica Wilson
+1010;Cybertruck;Electric;Karen Johnson
+1011;Model X;Electric;Mary Taylor
+1012;Model S;Electric;Barbara Garcia
+1013;Model 3;Electric;Thomas Williams
+1014;Cybertruck;Electric;Barbara Davis
+1015;Model X;Electric;James Anderson
+1016;Roadster;Hybrid;Robert White
+1017;Roadster;Hybrid;Susan Thompson
+1018;Model X;Hybrid;Karen Wilson
+1019;Roadster;Hybrid;Thomas Smith
+1020;Roadster;Electric;John Jackson
+1021;Roadster;Electric;Patricia Brown
+1022;Model X;Hybrid;Richard Smith
+1023;Model 3;Hybrid;Mary Martinez
+1024;Model Y;Electric;Richard Harris
+1025;Model Y;Hybrid;Patricia Jackson
+1026;Model 3;Hybrid;David Williams
+1027;Model Y;Hybrid;Barbara Taylor
+1028;Model 3;Hybrid;Joseph Martinez
+1029;Cybertruck;Hybrid;David Johnson
+1030;Roadster;Hybrid;David Anderson
+1031;Roadster;Electric;Karen Johnson
+1032;Model S;Electric;Linda Jackson
+1033;Model Y;Hybrid;Elizabeth Garcia
+1034;Cybertruck;Electric;Thomas White
+1035;Roadster;Electric;Michael Moore
+1036;Model 3;Hybrid;Mary Williams
+1037;Model X;Electric;David Smith
+1038;Model S;Electric;Michael Brown
+1039;Cybertruck;Hybrid;Barbara Miller
+1040;Model X;Hybrid;Barbara Martin
+1041;Model X;Hybrid;Linda Jones
+1042;Roadster;Electric;Jessica Wilson
+1043;Model X;Hybrid;Patricia Wilson
+1044;Roadster;Electric;David Brown
+1045;Roadster;Hybrid;Patricia Martin
+1046;Model S;Electric;Joseph Jackson
+1047;Model S;Hybrid;Robert Thomas
+1048;Model 3;Hybrid;Charles Thompson
+1049;Cybertruck;Hybrid;Jennifer Harris
+1050;Model S;Electric;Barbara Johnson
+1051;Model X;Hybrid;Jessica Garcia
+1052;Model S;Hybrid;Susan Thomas
+1053;Model S;Hybrid;Jessica Martin
+1054;Model S;Electric;John Brown
+1055;Model S;Hybrid;Sarah Wilson
+1056;Roadster;Hybrid;Karen White
+1057;Model X;Hybrid;Sarah Jones
+1058;Model 3;Hybrid;Jessica Moore
+1059;Cybertruck;Electric;Susan Taylor
+1060;Model 3;Hybrid;James Robinson
+1061;Roadster;Electric;James Harris
+1062;Roadster;Electric;James Harris
+1063;Model 3;Hybrid;Robert Wilson
+1064;Model 3;Electric;Elizabeth Jackson
+1065;Roadster;Electric;William Garcia
+1066;Model Y;Electric;William Thomas
+1067;Cybertruck;Hybrid;Michael Jackson
+1068;Model S;Hybrid;John Jackson
+1069;Model 3;Hybrid;John Harris
+1070;Model X;Hybrid;Patricia White
+1071;Model X;Hybrid;Jessica Brown
+1072;Model Y;Electric;Karen White
+1073;Roadster;Hybrid;James White
+1074;Model Y;Hybrid;James Davis
+1075;Model Y;Hybrid;Barbara Smith
+1076;Model Y;Electric;Linda Williams
+1077;Model 3;Electric;Jessica Moore
+1078;Model S;Hybrid;Patricia Jackson
+1079;Model Y;Hybrid;David Moore
+1080;Model S;Electric;James Garcia
+1081;Model S;Hybrid;Jennifer Davis
+1082;Roadster;Electric;David Davis
+1083;Model S;Electric;Jessica Brown
+1084;Roadster;Hybrid;Elizabeth Taylor
+1085;Roadster;Hybrid;Barbara Jackson
+1086;Roadster;Electric;Thomas Thomas
+1087;Cybertruck;Electric;Barbara Smith
+1088;Model S;Hybrid;Michael Johnson
+1089;Model S;Hybrid;William Garcia
+1090;Model X;Electric;James Williams
+1091;Model 3;Hybrid;Michael Jackson
+1092;Model 3;Electric;Jessica Williams
+1093;Model 3;Hybrid;William Brown
+1094;Cybertruck;Electric;Joseph Martinez
+1095;Model X;Hybrid;Susan Johnson
+1096;Model Y;Electric;Robert Brown
+1097;Model X;Electric;Charles Wilson
+1098;Roadster;Hybrid;Joseph Johnson
+1099;Model Y;Electric;Thomas Jackson
+1100;Model 3;Hybrid;Richard Wilson
+1101;Model X;Electric;Barbara Jackson
+1102;Model 3;Electric;Joseph Taylor
+1103;Model X;Hybrid;Joseph Robinson
+1104;Model 3;Hybrid;William Thomas
+1105;Model 3;Electric;Richard Jones
+1106;Cybertruck;Hybrid;James Moore
+1107;Model S;Electric;Mary Moore
+1108;Model Y;Electric;Elizabeth Taylor
+1109;Model Y;Electric;John Harris
+1110;Model S;Electric;Richard Martin
+1111;Cybertruck;Hybrid;Karen White
+1112;Cybertruck;Hybrid;William White
+1113;Cybertruck;Electric;Joseph Garcia
+1114;Cybertruck;Hybrid;Joseph Anderson
+1115;Model X;Electric;Linda Jones
+1116;Model S;Hybrid;John Williams
+1117;Model 3;Electric;Barbara Anderson
+1118;Roadster;Hybrid;Robert Davis
+1119;Model Y;Hybrid;Patricia Moore
+1120;Cybertruck;Hybrid;Robert Thomas
+1121;Model 3;Hybrid;Mary Jones
+1122;Cybertruck;Hybrid;Jessica Jones
+1123;Model X;Electric;Thomas Smith
+1124;Model Y;Electric;Robert Garcia
+1125;Model 3;Electric;Elizabeth Brown
+1126;Model Y;Hybrid;Richard Robinson
+1127;Roadster;Hybrid;Thomas Garcia
+1128;Roadster;Electric;Richard Martin
+1129;Roadster;Electric;Robert Wilson
+1130;Cybertruck;Electric;Karen Garcia
+1131;Model Y;Electric;James Jackson
+1132;Cybertruck;Electric;Patricia Moore
+1133;Cybertruck;Electric;James Thomas
+1134;Cybertruck;Hybrid;Robert Brown
+1135;Model Y;Hybrid;John Martinez
+1136;Model S;Hybrid;Charles Williams
+1137;Model S;Electric;Thomas Martinez
+1138;Model S;Electric;Jennifer Robinson
+1139;Cybertruck;Electric;Karen Miller
+1140;Model Y;Electric;Patricia Davis
+1141;Roadster;Hybrid;Jennifer Harris
+1142;Model Y;Electric;Elizabeth Martin
+1143;Model Y;Hybrid;Robert Thompson
+1144;Model X;Hybrid;Joseph Harris
+1145;Roadster;Electric;Sarah Jackson
+1146;Model S;Hybrid;Michael Moore
+1147;Roadster;Hybrid;David Brown
+1148;Model 3;Electric;Michael Harris
+1149;Roadster;Hybrid;Patricia Thompson
+1150;Roadster;Electric;Richard Brown
+1151;Cybertruck;Electric;David Brown
+1152;Model X;Electric;Elizabeth Wilson
+1153;Model 3;Electric;Barbara Jones
+1154;Roadster;Hybrid;Susan Williams
+1155;Model Y;Hybrid;David Brown
+1156;Model Y;Electric;Jessica Martinez
+1157;Model 3;Electric;Elizabeth Wilson
+1158;Cybertruck;Hybrid;Joseph Robinson
+1159;Model X;Electric;Karen Jones
+1160;Model S;Electric;Patricia Garcia
+1161;Roadster;Hybrid;Charles Martinez
+1162;Model 3;Hybrid;David Robinson
+1163;Cybertruck;Electric;Jennifer Moore
+1164;Cybertruck;Hybrid;James Anderson
+1165;Model Y;Hybrid;James Robinson
+1166;Model S;Electric;Jessica Brown
+1167;Model X;Hybrid;Patricia Miller
+1168;Cybertruck;Hybrid;Richard Anderson
+1169;Model X;Electric;Jessica Anderson
+1170;Model 3;Electric;Mary Smith
+1171;Model 3;Hybrid;Michael Miller
+1172;Model 3;Electric;Susan Robinson
+1173;Model Y;Electric;Karen Brown
+1174;Model Y;Electric;Robert Martinez
+1175;Model X;Hybrid;Mary Garcia
+1176;Model X;Electric;Sarah Jones
+1177;Model 3;Hybrid;David Smith
+1178;Model S;Hybrid;Patricia Thomas
+1179;Cybertruck;Electric;Jessica Jackson
+1180;Cybertruck;Hybrid;Susan White
+1181;Model 3;Electric;Barbara Anderson
+1182;Model 3;Hybrid;David Martinez
+1183;Model X;Hybrid;Linda Wilson
+1184;Model X;Electric;Sarah Martinez
+1185;Model X;Hybrid;Charles Robinson
+1186;Model X;Hybrid;William Brown
+1187;Roadster;Hybrid;Karen Thompson
+1188;Model X;Hybrid;Charles White
+1189;Roadster;Hybrid;Thomas Davis
+1190;Roadster;Hybrid;Sarah Jackson
+1191;Model X;Electric;Jennifer Jones
+1192;Model S;Electric;Jessica Wilson
+1193;Cybertruck;Hybrid;Thomas Jackson
+1194;Roadster;Hybrid;Joseph Martin
+1195;Model Y;Hybrid;Mary Robinson
+1196;Roadster;Hybrid;Richard Anderson
+1197;Model X;Hybrid;Robert Davis
+1198;Model S;Electric;William Johnson
+1199;Roadster;Hybrid;Charles Jackson
+1200;Model S;Hybrid;Susan Taylor
+1201;Model X;Electric;James Jackson
+1202;Model 3;Hybrid;Charles Jones
+1203;Model S;Hybrid;Susan Wilson
+1204;Model S;Electric;Richard Garcia
+1205;Roadster;Electric;Joseph Martin
+1206;Model X;Electric;Sarah Taylor
+1207;Model X;Electric;Thomas Martinez
+1208;Model Y;Electric;Richard Thompson
+1209;Model 3;Hybrid;William Martinez
+1210;Model X;Hybrid;David Harris
+1211;Cybertruck;Hybrid;David Martin
+1212;Model Y;Hybrid;John Thomas
+1213;Model 3;Hybrid;Mary Wilson
+1214;Model Y;Hybrid;Elizabeth Thomas
+1215;Model 3;Hybrid;William Thomas
+1216;Model 3;Hybrid;Charles Garcia
+1217;Roadster;Hybrid;Elizabeth Anderson
+1218;Model 3;Electric;Susan Williams
+1219;Roadster;Hybrid;Patricia Williams
+1220;Model 3;Hybrid;David Garcia
+1221;Model X;Hybrid;James Williams
+1222;Model Y;Electric;Thomas Thomas
+1223;Model 3;Hybrid;Elizabeth White
+1224;Model X;Hybrid;David Williams
+1225;Model S;Hybrid;Patricia Williams
+1226;Model X;Hybrid;William Davis
+1227;Roadster;Hybrid;John Smith
+1228;Model S;Hybrid;Mary Jones
+1229;Model S;Electric;James Anderson
+1230;Model Y;Hybrid;Patricia Harris
+1231;Model Y;Hybrid;Karen Jackson
+1232;Model X;Electric;Karen Martin
+1233;Model Y;Electric;Richard Anderson
+1234;Roadster;Hybrid;Karen Brown
+1235;Cybertruck;Electric;Charles Williams
+1236;Model S;Electric;Charles Harris
+1237;Cybertruck;Electric;Karen Johnson
+1238;Cybertruck;Hybrid;Patricia Thompson
+1239;Roadster;Electric;Robert Jones
+1240;Model X;Hybrid;Mary Taylor
+1241;Model Y;Hybrid;Thomas Garcia
+1242;Roadster;Electric;Michael Moore
+1243;Model 3;Electric;William Harris
+1244;Model Y;Electric;Karen Thompson
+1245;Roadster;Hybrid;Sarah Robinson
+1246;Model Y;Electric;Michael Harris
+1247;Model S;Hybrid;Joseph Moore
+1248;Model X;Electric;David Williams
+1249;Cybertruck;Hybrid;Charles Martin
+1250;Model Y;Hybrid;Elizabeth Smith
+1251;Roadster;Electric;Patricia White
+1252;Model Y;Electric;Robert Robinson
+1253;Model X;Hybrid;James Johnson
+1254;Model Y;Hybrid;Jessica Anderson
+1255;Roadster;Electric;Jennifer Jackson
+1256;Cybertruck;Electric;Elizabeth Wilson
+1257;Model 3;Hybrid;Mary Thomas
+1258;Model S;Electric;Jennifer Davis
+1259;Model S;Electric;Barbara Jones
+1260;Model Y;Hybrid;Sarah Davis
+1261;Model S;Electric;Mary Martin
+1262;Roadster;Hybrid;Patricia Thomas
+1263;Cybertruck;Hybrid;Joseph Moore
+1264;Cybertruck;Hybrid;Charles Jones
+1265;Model S;Electric;James Williams
+1266;Model S;Hybrid;Richard Anderson
+1267;Roadster;Hybrid;Thomas Wilson
+1268;Model X;Electric;Charles Anderson
+1269;Model Y;Electric;John Johnson
+1270;Model S;Electric;David Williams
+1271;Cybertruck;Electric;Mary Taylor
+1272;Model 3;Hybrid;Joseph Moore
+1273;Model X;Hybrid;Linda Miller
+1274;Model 3;Hybrid;Barbara Garcia
+1275;Model Y;Hybrid;Karen Thomas
+1276;Model 3;Hybrid;Mary Robinson
+1277;Model S;Electric;Linda Jones
+1278;Model 3;Electric;Susan Jones
+1279;Model Y;Hybrid;Sarah Moore
+1280;Roadster;Electric;Karen Brown
+1281;Model 3;Electric;Linda Thompson
+1282;Model 3;Hybrid;Michael Martinez
+1283;Model Y;Electric;David Williams
+1284;Model S;Hybrid;Richard Jones
+1285;Model S;Electric;Robert White
+1286;Model 3;Hybrid;Richard Anderson
+1287;Model 3;Electric;Robert Wilson
+1288;Model Y;Hybrid;William Jones
+1289;Roadster;Electric;Thomas Johnson
+1290;Cybertruck;Electric;Charles Wilson
+1291;Model 3;Electric;Patricia Thompson
+1292;Cybertruck;Hybrid;Susan Miller
+1293;Model Y;Hybrid;Patricia Thompson
+1294;Roadster;Electric;Robert Harris
+1295;Roadster;Hybrid;Elizabeth Anderson
+1296;Model 3;Hybrid;Michael Jackson
+1297;Cybertruck;Electric;Susan Miller
+1298;Cybertruck;Electric;Linda Garcia
+1299;Model Y;Electric;Karen Thomas
+1300;Model X;Electric;John Johnson
+1301;Model S;Hybrid;Elizabeth Thomas
+1302;Model Y;Hybrid;Robert Harris
+1303;Model X;Electric;James Anderson
+1304;Model S;Hybrid;John Johnson
+1305;Model S;Hybrid;Patricia Anderson
+1306;Model S;Electric;Sarah White
+1307;Roadster;Hybrid;Jessica Jones
+1308;Cybertruck;Electric;Sarah Miller
+1309;Model Y;Hybrid;Richard Garcia
+1310;Cybertruck;Hybrid;Karen Anderson
+1311;Model Y;Electric;John Thompson
+1312;Cybertruck;Hybrid;Linda Moore
+1313;Cybertruck;Electric;William Moore
+1314;Model S;Hybrid;Elizabeth Smith
+1315;Model X;Electric;Mary Jones
+1316;Roadster;Electric;Michael Davis
+1317;Roadster;Electric;Robert Brown
+1318;Roadster;Electric;Jennifer Smith
+1319;Roadster;Electric;Karen Johnson
+1320;Cybertruck;Hybrid;Barbara Smith
+1321;Roadster;Electric;Patricia Brown
+1322;Model Y;Hybrid;Barbara Thompson
+1323;Roadster;Hybrid;Mary Harris
+1324;Model S;Electric;Barbara Taylor
+1325;Model S;Hybrid;Thomas Williams
+1326;Cybertruck;Hybrid;Patricia Anderson
+1327;Model 3;Electric;Barbara Smith
+1328;Cybertruck;Electric;Robert Thomas
+1329;Model Y;Electric;John Taylor
+1330;Model 3;Electric;Jennifer Martin
+1331;Roadster;Hybrid;Barbara Brown
+1332;Model Y;Hybrid;Charles Jackson
+1333;Model X;Hybrid;Thomas Wilson
+1334;Cybertruck;Electric;Richard Williams
+1335;Model 3;Electric;Jennifer Moore
+1336;Model Y;Hybrid;Patricia Taylor
+1337;Model X;Electric;Susan Miller
+1338;Model 3;Electric;Elizabeth Moore
+1339;Cybertruck;Electric;Susan Jackson
+1340;Model Y;Electric;William Johnson
+1341;Model 3;Hybrid;Linda Brown
+1342;Model X;Electric;David Smith
+1343;Model X;Electric;Mary Williams
+1344;Roadster;Hybrid;Sarah Martin
+1345;Model X;Hybrid;Michael Jackson
+1346;Model X;Hybrid;James Martin
+1347;Model 3;Hybrid;Jessica Thomas
+1348;Cybertruck;Hybrid;Linda White
+1349;Model S;Hybrid;Susan Jones
+1350;Cybertruck;Electric;Thomas Brown
+1351;Roadster;Electric;Jennifer Martin
+1352;Cybertruck;Hybrid;Karen Garcia
+1353;Model 3;Electric;William Jones
+1354;Model Y;Hybrid;Jessica Anderson
+1355;Cybertruck;Electric;Joseph Anderson
+1356;Model Y;Hybrid;Michael Harris
+1357;Roadster;Electric;Richard Garcia
+1358;Cybertruck;Electric;William Thomas
+1359;Model X;Hybrid;William Smith
+1360;Model 3;Hybrid;Richard White
+1361;Model S;Electric;Jessica Williams
+1362;Model S;Electric;William Taylor
+1363;Roadster;Hybrid;Robert Williams
+1364;Model S;Hybrid;Mary Anderson
+1365;Model Y;Electric;Karen Moore
+1366;Model X;Electric;Jennifer Martinez
+1367;Model X;Hybrid;Charles Garcia
+1368;Cybertruck;Electric;Richard Harris
+1369;Model S;Electric;John Jones
+1370;Model Y;Electric;Susan Brown
+1371;Roadster;Hybrid;Michael Davis
+1372;Model X;Electric;Barbara Thompson
+1373;Model 3;Hybrid;Jessica Harris
+1374;Roadster;Electric;John Taylor
+1375;Roadster;Hybrid;Jessica Taylor
+1376;Model Y;Electric;Michael Jones
+1377;Model 3;Hybrid;Elizabeth Garcia
+1378;Roadster;Hybrid;Patricia Taylor
+1379;Model S;Hybrid;Susan Miller
+1380;Model S;Electric;David Williams
+1381;Model X;Electric;Linda Davis
+1382;Cybertruck;Hybrid;William Moore
+1383;Model Y;Hybrid;Sarah Thompson
+1384;Model S;Hybrid;Mary Williams
+1385;Model 3;Electric;Karen Martin
+1386;Model 3;Electric;Sarah Brown
+1387;Model X;Electric;Thomas Miller
+1388;Model Y;Hybrid;Karen White
+1389;Model X;Electric;Joseph Thomas
+1390;Cybertruck;Electric;Patricia Harris
+1391;Model S;Electric;Barbara Thompson
+1392;Model S;Hybrid;Karen Anderson
+1393;Model S;Electric;Jessica Thomas
+1394;Model S;Electric;David Harris
+1395;Cybertruck;Hybrid;Mary Garcia
+1396;Cybertruck;Electric;Michael Taylor
+1397;Cybertruck;Electric;Michael Jones
+1398;Model Y;Electric;Elizabeth Moore
+1399;Model S;Electric;Thomas Martinez
+1400;Cybertruck;Hybrid;Thomas Garcia
+1401;Model S;Electric;Susan Jones
+1402;Model S;Hybrid;Charles Martinez
+1403;Model 3;Electric;Linda Johnson
+1404;Cybertruck;Electric;Michael Wilson
+1405;Model 3;Electric;Patricia Harris
+1406;Model X;Hybrid;Charles Miller
+1407;Cybertruck;Hybrid;Jessica Williams
+1408;Model 3;Hybrid;Karen Martinez
+1409;Cybertruck;Electric;Charles Williams
+1410;Model Y;Hybrid;Thomas Davis
+1411;Model Y;Hybrid;Jessica Taylor
+1412;Model 3;Electric;Sarah Jackson
+1413;Model X;Electric;James Robinson
+1414;Model S;Electric;Joseph Anderson
+1415;Model X;Hybrid;Michael Thomas
+1416;Model X;Electric;John Smith
+1417;Model S;Electric;William Anderson
+1418;Roadster;Electric;Jessica Martinez
+1419;Roadster;Electric;David Brown
+1420;Model S;Hybrid;Charles Harris
+1421;Model Y;Electric;Jennifer Brown
+1422;Roadster;Hybrid;Robert Davis
+1423;Model Y;Hybrid;Elizabeth Jones
+1424;Model X;Electric;Elizabeth Martin
+1425;Model 3;Electric;Patricia Anderson
+1426;Model 3;Electric;Linda Jones
+1427;Model Y;Electric;William Thompson
+1428;Model X;Electric;Richard Jones
+1429;Model Y;Electric;Karen White
+1430;Model 3;Hybrid;Robert Smith
+1431;Model X;Hybrid;Karen Jones
+1432;Model S;Hybrid;Mary Smith
+1433;Model S;Hybrid;Richard Harris
+1434;Model X;Hybrid;Michael Robinson
+1435;Model Y;Electric;David Harris
+1436;Model X;Hybrid;David Garcia
+1437;Cybertruck;Hybrid;Robert Davis
+1438;Model X;Hybrid;Jessica Anderson
+1439;Model 3;Electric;Robert Jackson
+1440;Model 3;Hybrid;Richard Wilson
+1441;Model X;Electric;Robert Moore
+1442;Roadster;Hybrid;Sarah Robinson
+1443;Roadster;Electric;Elizabeth Moore
+1444;Roadster;Electric;Patricia Wilson
+1445;Model 3;Hybrid;Patricia Harris
+1446;Model S;Electric;Patricia Harris
+1447;Model 3;Electric;Michael Wilson
+1448;Model 3;Electric;Thomas Thompson
+1449;Roadster;Electric;Patricia Miller
+1450;Model 3;Electric;John Johnson
+1451;Model Y;Electric;Michael Davis
+1452;Roadster;Hybrid;Thomas Jackson
+1453;Cybertruck;Electric;James Brown
+1454;Roadster;Hybrid;Barbara Johnson
+1455;Cybertruck;Hybrid;John Anderson
+1456;Model Y;Electric;Michael Thompson
+1457;Model 3;Hybrid;James Brown
+1458;Cybertruck;Electric;Jennifer Smith
+1459;Model S;Hybrid;Jennifer Jones
+1460;Model S;Hybrid;Robert Williams
+1461;Model X;Hybrid;David Martinez
+1462;Model X;Hybrid;Patricia Martinez
+1463;Cybertruck;Electric;Michael Thompson
+1464;Model Y;Electric;Richard Johnson
+1465;Model S;Electric;Jennifer Miller
+1466;Roadster;Electric;Elizabeth Williams
+1467;Roadster;Electric;Richard Wilson
+1468;Model X;Electric;Elizabeth Robinson
+1469;Model X;Electric;Patricia Robinson
+1470;Cybertruck;Electric;Sarah Johnson
+1471;Model Y;Hybrid;Joseph Garcia
+1472;Model S;Hybrid;Linda Taylor
+1473;Cybertruck;Electric;Michael Moore
+1474;Model 3;Electric;James Johnson
+1475;Cybertruck;Electric;Robert Johnson
+1476;Model 3;Hybrid;Joseph Robinson
+1477;Model S;Hybrid;Charles White
+1478;Model X;Electric;Charles Martinez
+1479;Model 3;Hybrid;Jennifer Anderson
+1480;Model 3;Hybrid;Mary Garcia
+1481;Cybertruck;Electric;Richard Martin
+1482;Model Y;Hybrid;John Jones
+1483;Model X;Hybrid;Mary Jackson
+1484;Model X;Electric;Jessica Taylor
+1485;Model Y;Hybrid;Karen Taylor
+1486;Model Y;Electric;James Martin
+1487;Roadster;Electric;Charles Jackson
+1488;Cybertruck;Hybrid;Susan Robinson
+1489;Model Y;Hybrid;Charles Taylor
+1490;Roadster;Electric;Barbara Robinson
+1491;Roadster;Hybrid;Elizabeth Martinez
+1492;Model S;Electric;Sarah Jones
+1493;Model S;Hybrid;Jessica Anderson
+1494;Model S;Hybrid;Linda Brown
+1495;Model X;Hybrid;Thomas Martinez
+1496;Model Y;Electric;Karen Wilson
+1497;Model X;Hybrid;John Thompson
+1498;Model X;Electric;Linda Harris
+1499;Model X;Electric;David Thompson
+1500;Model X;Electric;Patricia Robinson
+1501;Cybertruck;Hybrid;Karen Harris
+1502;Cybertruck;Electric;William Davis
+1503;Model X;Electric;Jennifer Wilson
+1504;Cybertruck;Hybrid;Jessica Jackson
+1505;Cybertruck;Electric;Richard Jones
+1506;Cybertruck;Hybrid;Karen Williams
+1507;Roadster;Electric;Michael Anderson
+1508;Model Y;Hybrid;John Robinson
+1509;Model S;Electric;Mary Wilson
+1510;Cybertruck;Hybrid;Richard Garcia
+1511;Roadster;Hybrid;John Williams
+1512;Cybertruck;Hybrid;Jessica Davis
+1513;Roadster;Electric;Robert Johnson
+1514;Cybertruck;Electric;Thomas Johnson
+1515;Model X;Hybrid;Susan White
+1516;Model X;Electric;David Davis
+1517;Model X;Hybrid;Susan Wilson
+1518;Cybertruck;Hybrid;Mary Taylor
+1519;Model Y;Electric;Robert Wilson
+1520;Roadster;Electric;Charles Harris
+1521;Model X;Electric;John Anderson
+1522;Model X;Electric;Jennifer Smith
+1523;Model 3;Hybrid;Mary Moore
+1524;Model 3;Hybrid;Linda Martinez
+1525;Model Y;Hybrid;Karen White
+1526;Roadster;Electric;Susan Thompson
+1527;Model Y;Electric;Charles Smith
+1528;Model 3;Hybrid;Sarah White
+1529;Model S;Electric;Linda Williams
+1530;Cybertruck;Hybrid;William Smith
+1531;Model 3;Electric;William Johnson
+1532;Cybertruck;Hybrid;Michael Martinez
+1533;Model 3;Electric;William Davis
+1534;Model 3;Electric;Charles Moore
+1535;Model Y;Hybrid;Thomas Anderson
+1536;Model X;Electric;James Garcia
+1537;Model 3;Hybrid;John Miller
+1538;Model Y;Electric;Elizabeth Miller
+1539;Cybertruck;Electric;Linda Johnson
+1540;Model 3;Hybrid;Elizabeth Wilson
+1541;Model S;Electric;Barbara Anderson
+1542;Model S;Hybrid;Jennifer Miller
+1543;Model 3;Hybrid;Elizabeth Robinson
+1544;Cybertruck;Hybrid;Robert Davis
+1545;Model X;Electric;James Miller
+1546;Roadster;Electric;Robert Jones
+1547;Model Y;Hybrid;Charles Moore
+1548;Cybertruck;Hybrid;Mary Taylor
+1549;Model 3;Hybrid;Richard Smith
+1550;Model 3;Electric;John Miller
+1551;Model S;Electric;Joseph Brown
+1552;Model 3;Electric;James Brown
+1553;Cybertruck;Hybrid;Mary Martin
+1554;Roadster;Electric;Patricia Jackson
+1555;Cybertruck;Electric;Mary Miller
+1556;Model S;Hybrid;Karen Taylor
+1557;Cybertruck;Hybrid;Linda Thompson
+1558;Model Y;Hybrid;Robert Harris
+1559;Roadster;Hybrid;David Harris
+1560;Cybertruck;Electric;Robert Thompson
+1561;Model 3;Hybrid;Charles Thompson
+1562;Roadster;Hybrid;William Harris
+1563;Model 3;Electric;Jessica Johnson
+1564;Roadster;Hybrid;Barbara Davis
+1565;Model X;Hybrid;Richard Johnson
+1566;Roadster;Hybrid;Karen Johnson
+1567;Model S;Hybrid;Michael Robinson
+1568;Model S;Electric;Robert Thompson
+1569;Cybertruck;Hybrid;David White
+1570;Model 3;Electric;Jessica Jones
+1571;Model X;Hybrid;Jessica Garcia
+1572;Roadster;Hybrid;Robert Martin
+1573;Model 3;Hybrid;Jessica Garcia
+1574;Model 3;Electric;Michael Brown
+1575;Model S;Hybrid;Barbara Robinson
+1576;Cybertruck;Electric;James Wilson
+1577;Model S;Hybrid;Linda Garcia
+1578;Cybertruck;Electric;John Thomas
+1579;Model X;Electric;Thomas Thompson
+1580;Roadster;Electric;Richard Martinez
+1581;Cybertruck;Electric;Jessica Anderson
+1582;Cybertruck;Electric;Thomas Anderson
+1583;Roadster;Electric;John Martinez
+1584;Model Y;Electric;Mary Moore
+1585;Model S;Electric;David Williams
+1586;Cybertruck;Electric;James White
+1587;Model S;Electric;Elizabeth Martin
+1588;Cybertruck;Electric;Susan Garcia
+1589;Cybertruck;Electric;Linda Jones
+1590;Roadster;Electric;William Jones
+1591;Cybertruck;Electric;Charles Wilson
+1592;Model X;Hybrid;Robert Harris
+1593;Model S;Electric;David Williams
+1594;Roadster;Hybrid;James Martinez
+1595;Model X;Hybrid;Jennifer Brown
+1596;Cybertruck;Hybrid;Charles Martin
+1597;Roadster;Hybrid;Joseph Robinson
+1598;Cybertruck;Electric;Sarah Thomas
+1599;Model X;Hybrid;Susan Johnson
+1600;Model S;Hybrid;David Robinson
+1601;Model Y;Hybrid;John Martin
+1602;Model Y;Hybrid;Thomas Wilson
+1603;Roadster;Electric;Joseph Smith
+1604;Cybertruck;Electric;Sarah Brown
+1605;Roadster;Hybrid;Thomas Thomas
+1606;Roadster;Electric;Michael White
+1607;Cybertruck;Hybrid;Barbara Jackson
+1608;Cybertruck;Electric;Elizabeth Thomas
+1609;Model 3;Hybrid;Robert Johnson
+1610;Model X;Electric;Michael Jones
+1611;Roadster;Electric;Charles Robinson
+1612;Cybertruck;Hybrid;Patricia Williams
+1613;Roadster;Electric;William Brown
+1614;Model Y;Hybrid;Barbara White
+1615;Roadster;Hybrid;William Moore
+1616;Roadster;Electric;Elizabeth Thompson
+1617;Model X;Electric;Jennifer White
+1618;Model 3;Hybrid;Michael Johnson
+1619;Model X;Electric;Richard Harris
+1620;Model S;Electric;Sarah Wilson
+1621;Model 3;Electric;Charles Johnson
+1622;Roadster;Hybrid;Mary Brown
+1623;Cybertruck;Electric;Karen Garcia
+1624;Cybertruck;Hybrid;Robert Martin
+1625;Model 3;Hybrid;Joseph Wilson
+1626;Model Y;Electric;Jessica Thompson
+1627;Model 3;Hybrid;Joseph Wilson
+1628;Cybertruck;Hybrid;James Thomas
+1629;Model 3;Hybrid;John Williams
+1630;Cybertruck;Hybrid;Thomas Brown
+1631;Roadster;Electric;Jessica Robinson
+1632;Model Y;Hybrid;Jessica Martin
+1633;Model X;Hybrid;Linda Martinez
+1634;Model X;Electric;David Brown
+1635;Model 3;Electric;Jennifer Brown
+1636;Model 3;Electric;John Thomas
+1637;Model S;Electric;Sarah Wilson
+1638;Model S;Electric;James Martin
+1639;Model 3;Electric;Karen Davis
+1640;Model Y;Hybrid;Richard Thomas
+1641;Model Y;Hybrid;Mary Anderson
+1642;Model S;Hybrid;Richard Brown
+1643;Model Y;Electric;Linda Martin
+1644;Model 3;Hybrid;Michael Garcia
+1645;Model 3;Electric;Elizabeth Garcia
+1646;Model X;Hybrid;John Moore
+1647;Model Y;Electric;David Moore
+1648;Model S;Electric;John Taylor
+1649;Model X;Electric;Elizabeth Davis
+1650;Model S;Hybrid;Barbara Taylor
+1651;Model Y;Electric;John Wilson
+1652;Model X;Electric;Joseph Thompson
+1653;Model 3;Electric;James Johnson
+1654;Model X;Electric;Karen White
+1655;Roadster;Electric;Jessica Robinson
+1656;Model X;Hybrid;Jessica Williams
+1657;Model 3;Electric;John Smith
+1658;Model 3;Electric;Linda Martin
+1659;Model S;Electric;James Garcia
+1660;Model 3;Hybrid;David Garcia
+1661;Cybertruck;Hybrid;Robert Brown
+1662;Model 3;Hybrid;Joseph Anderson
+1663;Model S;Hybrid;Thomas Martinez
+1664;Model X;Hybrid;William Thompson
+1665;Model Y;Electric;Susan Moore
+1666;Model 3;Hybrid;Charles Taylor
+1667;Roadster;Hybrid;James Martinez
+1668;Cybertruck;Hybrid;Barbara Smith
+1669;Model X;Hybrid;Barbara Williams
+1670;Model 3;Hybrid;Barbara Thomas
+1671;Roadster;Hybrid;Robert Wilson
+1672;Roadster;Electric;Charles Brown
+1673;Model 3;Electric;Joseph Jones
+1674;Model 3;Electric;Jennifer White
+1675;Model 3;Electric;Richard Robinson
+1676;Model Y;Hybrid;John Robinson
+1677;Model X;Hybrid;Sarah Jones
+1678;Roadster;Electric;William Johnson
+1679;Model X;Hybrid;Richard Thompson
+1680;Model X;Electric;Thomas Martin
+1681;Roadster;Electric;David Johnson
+1682;Model S;Hybrid;Joseph Anderson
+1683;Roadster;Hybrid;Linda Williams
+1684;Model 3;Electric;Richard Anderson
+1685;Model 3;Hybrid;James Taylor
+1686;Model Y;Hybrid;Karen Thompson
+1687;Model S;Electric;Patricia Harris
+1688;Model X;Electric;Barbara Jones
+1689;Model X;Electric;Richard Johnson
+1690;Model X;Electric;David Martin
+1691;Model X;Hybrid;Susan Thomas
+1692;Model Y;Hybrid;Charles Davis
+1693;Model Y;Electric;Elizabeth Brown
+1694;Model X;Hybrid;James Taylor
+1695;Model X;Electric;Karen Wilson
+1696;Roadster;Hybrid;Susan Jones
+1697;Model X;Hybrid;Charles Harris
+1698;Model S;Electric;William Moore
+1699;Model S;Hybrid;Joseph Davis
+1700;Model 3;Electric;John Taylor
+1701;Model 3;Hybrid;Karen Martinez
+1702;Model Y;Hybrid;Joseph Garcia
+1703;Model 3;Hybrid;William Johnson
+1704;Model 3;Electric;Jessica Martin
+1705;Cybertruck;Electric;James Anderson
+1706;Model Y;Hybrid;Jessica Smith
+1707;Roadster;Hybrid;William Jones
+1708;Cybertruck;Electric;Mary Taylor
+1709;Model X;Electric;Jennifer Smith
+1710;Model S;Electric;Susan Harris
+1711;Cybertruck;Hybrid;Patricia Anderson
+1712;Cybertruck;Electric;Richard Jackson
+1713;Model Y;Hybrid;David Robinson
+1714;Roadster;Hybrid;Sarah Robinson
+1715;Model Y;Hybrid;Susan Robinson
+1716;Roadster;Hybrid;Charles Martin
+1717;Cybertruck;Hybrid;Michael Robinson
+1718;Model X;Hybrid;Elizabeth Thompson
+1719;Cybertruck;Hybrid;Jennifer Taylor
+1720;Model Y;Hybrid;Charles Miller
+1721;Roadster;Hybrid;Richard Wilson
+1722;Roadster;Electric;James Thomas
+1723;Model Y;Hybrid;Mary Jones
+1724;Model 3;Hybrid;Karen Anderson
+1725;Model Y;Hybrid;John Garcia
+1726;Roadster;Electric;Richard Jackson
+1727;Model X;Electric;James Harris
+1728;Model 3;Electric;Susan Robinson
+1729;Model X;Hybrid;Robert Thompson
+1730;Cybertruck;Electric;William Brown
+1731;Roadster;Electric;Joseph Jones
+1732;Roadster;Hybrid;Richard Anderson
+1733;Cybertruck;Electric;Jennifer White
+1734;Roadster;Hybrid;Linda Williams
+1735;Model Y;Hybrid;Barbara Martin
+1736;Cybertruck;Hybrid;Charles Wilson
+1737;Model 3;Electric;David Miller
+1738;Roadster;Hybrid;Linda Jackson
+1739;Model X;Electric;Michael Smith
+1740;Model X;Electric;Robert Miller
+1741;Cybertruck;Hybrid;Linda Wilson
+1742;Cybertruck;Electric;Thomas Jones
+1743;Cybertruck;Hybrid;Barbara Harris
+1744;Model S;Hybrid;Patricia Jones
+1745;Model Y;Hybrid;Mary Taylor
+1746;Model X;Electric;Mary Williams
+1747;Model S;Hybrid;Elizabeth Moore
+1748;Model 3;Hybrid;Jennifer Jones
+1749;Cybertruck;Hybrid;Thomas White
+1750;Roadster;Hybrid;Robert Taylor
+1751;Cybertruck;Electric;Robert Williams
+1752;Cybertruck;Hybrid;Richard Jackson
+1753;Model Y;Electric;Thomas Davis
+1754;Model 3;Electric;Patricia Martin
+1755;Cybertruck;Electric;Linda Anderson
+1756;Model 3;Hybrid;Barbara Anderson
+1757;Model S;Hybrid;Susan Smith
+1758;Model S;Electric;Susan Garcia
+1759;Model X;Electric;John Williams
+1760;Model S;Electric;William Jackson
+1761;Model 3;Hybrid;Robert Thomas
+1762;Roadster;Hybrid;Karen Smith
+1763;Roadster;Hybrid;Karen Moore
+1764;Roadster;Electric;Thomas Smith
+1765;Cybertruck;Electric;Elizabeth Smith
+1766;Model X;Hybrid;John Jackson
+1767;Roadster;Electric;Joseph Thompson
+1768;Roadster;Electric;Elizabeth Taylor
+1769;Cybertruck;Electric;James Williams
+1770;Model 3;Hybrid;Charles Jackson
+1771;Model 3;Electric;James Martin
+1772;Model Y;Electric;Jennifer Garcia
+1773;Roadster;Hybrid;Jessica Jackson
+1774;Model Y;Electric;Charles Williams
+1775;Model X;Electric;Charles Wilson
+1776;Model 3;Hybrid;Barbara Martinez
+1777;Roadster;Electric;Thomas Martinez
+1778;Cybertruck;Hybrid;Thomas Robinson
+1779;Model X;Electric;William Thompson
+1780;Cybertruck;Hybrid;Karen Martin
+1781;Model X;Hybrid;Joseph Thompson
+1782;Model S;Electric;Barbara Jackson
+1783;Cybertruck;Hybrid;Robert Williams
+1784;Model 3;Electric;Charles Thompson
+1785;Roadster;Hybrid;Sarah Taylor
+1786;Model Y;Electric;Michael Brown
+1787;Model Y;Electric;Sarah Williams
+1788;Cybertruck;Electric;Charles Smith
+1789;Model S;Hybrid;Robert Thomas
+1790;Model X;Electric;Robert Davis
+1791;Model X;Hybrid;Thomas Jackson
+1792;Model 3;Electric;Sarah Williams
+1793;Model Y;Electric;Patricia Martinez
+1794;Model Y;Hybrid;David Robinson
+1795;Roadster;Electric;Barbara Jackson
+1796;Model 3;Electric;Sarah Davis
+1797;Model S;Hybrid;Mary Brown
+1798;Model Y;Electric;Michael Williams
+1799;Roadster;Electric;Mary Robinson
+1800;Model 3;Electric;Charles Thompson
+1801;Model 3;Hybrid;Barbara Davis
+1802;Model S;Electric;Robert Thomas
+1803;Model X;Hybrid;Mary Martin
+1804;Model S;Electric;Richard Wilson
+1805;Model X;Electric;Thomas White
+1806;Model X;Electric;Elizabeth Johnson
+1807;Model S;Hybrid;Patricia Moore
+1808;Cybertruck;Hybrid;Jessica Martin
+1809;Roadster;Hybrid;Elizabeth Martinez
+1810;Cybertruck;Electric;Robert Thomas
+1811;Cybertruck;Hybrid;Sarah Anderson
+1812;Model S;Hybrid;Thomas Robinson
+1813;Model X;Electric;James Thompson
+1814;Model X;Electric;James Moore
+1815;Cybertruck;Electric;Barbara Williams
+1816;Model X;Hybrid;Michael Jones
+1817;Cybertruck;Hybrid;James Thomas
+1818;Model S;Hybrid;Mary Robinson
+1819;Roadster;Hybrid;David White
+1820;Model Y;Electric;James Brown
+1821;Model X;Hybrid;Susan Williams
+1822;Model S;Hybrid;Charles Moore
+1823;Roadster;Electric;David Jackson
+1824;Model S;Electric;Linda Anderson
+1825;Model Y;Electric;Jessica Miller
+1826;Model 3;Hybrid;Susan Wilson
+1827;Model 3;Hybrid;William Martinez
+1828;Model Y;Electric;Michael Harris
+1829;Model Y;Electric;Jessica Miller
+1830;Model Y;Hybrid;Barbara Williams
+1831;Cybertruck;Hybrid;Robert Johnson
+1832;Model Y;Hybrid;Patricia Martin
+1833;Model 3;Hybrid;Robert Smith
+1834;Model X;Electric;Barbara Jones
+1835;Roadster;Electric;Joseph White
+1836;Model Y;Hybrid;Richard Garcia
+1837;Model Y;Hybrid;David Davis
+1838;Roadster;Electric;Susan Harris
+1839;Model 3;Hybrid;Patricia Garcia
+1840;Model Y;Hybrid;John Martinez
+1841;Model S;Electric;Jessica Harris
+1842;Model S;Electric;Susan Martinez
+1843;Model 3;Hybrid;Joseph Thomas
+1844;Roadster;Electric;James Taylor
+1845;Roadster;Electric;David Thomas
+1846;Model Y;Hybrid;William White
+1847;Roadster;Hybrid;Susan Martin
+1848;Model 3;Hybrid;Mary Thompson
+1849;Roadster;Hybrid;Robert Smith
+1850;Model Y;Hybrid;Richard Taylor
+1851;Roadster;Hybrid;Elizabeth Brown
+1852;Model X;Electric;Richard Garcia
+1853;Cybertruck;Hybrid;James Thompson
+1854;Roadster;Hybrid;James Jackson
+1855;Cybertruck;Electric;Karen Smith
+1856;Model X;Electric;William Johnson
+1857;Model X;Hybrid;Karen Davis
+1858;Model 3;Electric;Elizabeth Jackson
+1859;Model Y;Electric;David Moore
+1860;Cybertruck;Hybrid;Elizabeth Wilson
+1861;Model X;Electric;Jessica Anderson
+1862;Model X;Electric;Karen Anderson
+1863;Model X;Hybrid;Joseph Davis
+1864;Model Y;Hybrid;Mary Martinez
+1865;Model Y;Electric;Linda Smith
+1866;Cybertruck;Hybrid;James Thompson
+1867;Model X;Hybrid;Charles Jackson
+1868;Model X;Electric;Joseph Jackson
+1869;Model 3;Electric;Richard Anderson
+1870;Model S;Electric;James Johnson
+1871;Model S;Electric;William White
+1872;Model 3;Hybrid;Charles Smith
+1873;Model X;Hybrid;Barbara Martin
+1874;Roadster;Hybrid;David Garcia
+1875;Model X;Electric;Jessica Johnson
+1876;Cybertruck;Hybrid;William Jackson
+1877;Cybertruck;Electric;David Taylor
+1878;Cybertruck;Electric;Jennifer Miller
+1879;Roadster;Hybrid;Sarah Martin
+1880;Model X;Hybrid;Jennifer Taylor
+1881;Roadster;Hybrid;Linda Martinez
+1882;Model Y;Electric;Jennifer Wilson
+1883;Model Y;Electric;Jessica Johnson
+1884;Model 3;Hybrid;John Davis
+1885;Model X;Electric;Susan Wilson
+1886;Model Y;Electric;Karen Martin
+1887;Cybertruck;Hybrid;Jennifer Taylor
+1888;Roadster;Hybrid;David White
+1889;Roadster;Electric;William Thompson
+1890;Model S;Electric;Thomas Taylor
+1891;Roadster;Electric;Jessica Thomas
+1892;Model 3;Electric;Richard Martinez
+1893;Roadster;Electric;William Thomas
+1894;Roadster;Electric;Patricia Johnson
+1895;Model 3;Electric;Charles Taylor
+1896;Model Y;Electric;Sarah Garcia
+1897;Model X;Electric;Robert Anderson
+1898;Model 3;Hybrid;Jennifer Jones
+1899;Model 3;Hybrid;Robert Davis
+1900;Model 3;Electric;James Harris
+1901;Model Y;Hybrid;Charles Anderson
+1902;Model S;Hybrid;Jessica Martin
+1903;Roadster;Electric;Elizabeth Anderson
+1904;Model Y;Hybrid;Sarah Harris
+1905;Roadster;Electric;Elizabeth Martin
+1906;Cybertruck;Electric;Jessica Thompson
+1907;Roadster;Hybrid;William Thompson
+1908;Model S;Hybrid;Robert Miller
+1909;Roadster;Hybrid;Linda Johnson
+1910;Roadster;Electric;John Jones
+1911;Model X;Electric;Richard Martinez
+1912;Model X;Electric;Jennifer Taylor
+1913;Model S;Electric;Jessica Smith
+1914;Model S;Electric;Michael Harris
+1915;Model X;Hybrid;Jennifer Garcia
+1916;Model S;Hybrid;Elizabeth Thomas
+1917;Model X;Electric;Sarah Garcia
+1918;Model X;Hybrid;Patricia Thompson
+1919;Model Y;Electric;Mary Harris
+1920;Model S;Hybrid;James Anderson
+1921;Model Y;Electric;Charles Moore
+1922;Model Y;Electric;Charles Williams
+1923;Cybertruck;Electric;Elizabeth Jackson
+1924;Model S;Electric;Richard Thomas
+1925;Model S;Hybrid;Richard Garcia
+1926;Cybertruck;Electric;James Robinson
+1927;Roadster;Electric;Susan Thompson
+1928;Model X;Electric;William Brown
+1929;Roadster;Electric;Joseph Anderson
+1930;Model 3;Hybrid;Susan Williams
+1931;Cybertruck;Electric;Mary Moore
+1932;Model S;Hybrid;James Brown
+1933;Model X;Electric;Jennifer Taylor
+1934;Model Y;Hybrid;Jennifer Johnson
+1935;Model 3;Hybrid;Sarah Wilson
+1936;Roadster;Electric;Patricia Thompson
+1937;Model X;Electric;Linda Moore
+1938;Model Y;Hybrid;Charles Miller
+1939;Roadster;Hybrid;Mary White
+1940;Model S;Electric;Robert Thomas
+1941;Model S;Hybrid;Thomas Harris
+1942;Model X;Hybrid;William Thomas
+1943;Model 3;Hybrid;Michael Johnson
+1944;Model Y;Hybrid;Joseph Jones
+1945;Model 3;Hybrid;Charles Thomas
+1946;Model X;Hybrid;Robert White
+1947;Model 3;Electric;Richard Brown
+1948;Model S;Electric;James Garcia
+1949;Model X;Hybrid;Mary Wilson
+1950;Roadster;Electric;Robert Anderson
+1951;Model X;Electric;Barbara White
+1952;Cybertruck;Electric;Susan Davis
+1953;Model Y;Electric;Barbara Davis
+1954;Model S;Electric;John Davis
+1955;Model Y;Electric;Richard Davis
+1956;Model X;Hybrid;Thomas Harris
+1957;Model Y;Electric;Richard Brown
+1958;Cybertruck;Electric;Karen Harris
+1959;Model X;Hybrid;Mary Martinez
+1960;Model 3;Electric;Elizabeth Jackson
+1961;Cybertruck;Hybrid;Jessica Robinson
+1962;Model S;Hybrid;Jennifer Smith
+1963;Model S;Hybrid;John Miller
+1964;Model 3;Hybrid;Patricia Miller
+1965;Model X;Electric;John Thomas
+1966;Model 3;Hybrid;Robert Johnson
+1967;Cybertruck;Hybrid;John Taylor
+1968;Model 3;Hybrid;James Thompson
+1969;Cybertruck;Hybrid;Joseph Thompson
+1970;Roadster;Electric;Robert Johnson
+1971;Roadster;Hybrid;James White
+1972;Roadster;Electric;Patricia Jones
+1973;Model Y;Hybrid;Charles Miller
+1974;Model S;Hybrid;Jessica Garcia
+1975;Cybertruck;Electric;John Williams
+1976;Model S;Electric;David Moore
+1977;Model X;Hybrid;John Jackson
+1978;Model 3;Electric;David Johnson
+1979;Model 3;Hybrid;Robert Martin
+1980;Cybertruck;Electric;Elizabeth Harris
+1981;Roadster;Electric;Robert Jones
+1982;Model X;Electric;Thomas Johnson
+1983;Cybertruck;Hybrid;Joseph Wilson
+1984;Cybertruck;Hybrid;Michael Martinez
+1985;Model 3;Hybrid;Linda Taylor
+1986;Model Y;Hybrid;Robert Williams
+1987;Model 3;Hybrid;Susan Moore
+1988;Model Y;Hybrid;Barbara Thomas
+1989;Model 3;Electric;Richard Taylor
+1990;Model X;Electric;Patricia Harris
+1991;Model X;Hybrid;James Brown
+1992;Model 3;Electric;James Brown
+1993;Model 3;Electric;Joseph Jackson
+1994;Cybertruck;Hybrid;Karen Wilson
+1995;Model X;Hybrid;Patricia Taylor
+1996;Cybertruck;Hybrid;Karen Wilson
+1997;Cybertruck;Hybrid;Richard Taylor
+1998;Model 3;Hybrid;Thomas Robinson
+1999;Model Y;Hybrid;Jessica Anderson
