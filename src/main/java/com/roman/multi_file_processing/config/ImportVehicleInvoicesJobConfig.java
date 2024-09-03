@@ -2,6 +2,7 @@ package com.roman.multi_file_processing.config;
 
 import com.roman.multi_file_processing.dto.VehicleDTO;
 import com.roman.multi_file_processing.listeners.CustomJobExecutionListener;
+import com.roman.multi_file_processing.reader.MultiResourceReaderThreadSafe;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -23,6 +24,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.FileSystemResource;
 import org.springframework.core.io.Resource;
+import org.springframework.core.task.VirtualThreadTaskExecutor;
 import org.springframework.transaction.PlatformTransactionManager;
 
 
@@ -50,9 +52,10 @@ public class ImportVehicleInvoicesJobConfig {
     public Step importVehicleStep(){
         return new StepBuilder("importVehicleStep", jobRepository)
                 .<VehicleDTO, VehicleDTO>chunk(100, platformTransactionManager)
-                .reader(multiResourceItemReader())
+                .reader(multiResourceReaderThreadSafe())
                 .processor(ImportVehicleInvoicesJobConfig::vehicleProcessor)
                 .writer(items -> log.info("Writing items: {}", items))
+                .taskExecutor(taskExecutor())
                 .build();
 
     }
@@ -63,7 +66,13 @@ public class ImportVehicleInvoicesJobConfig {
     }
 
 
-    @Bean
+
+    public MultiResourceReaderThreadSafe<VehicleDTO> multiResourceReaderThreadSafe(){
+        var multiResourceReader = new MultiResourceReaderThreadSafe<VehicleDTO>(multiResourceItemReader());
+        multiResourceReader.setResources(resources);
+        return multiResourceReader;
+    }
+
     public MultiResourceItemReader<VehicleDTO> multiResourceItemReader(){
         return new MultiResourceItemReaderBuilder<VehicleDTO>()
                 .name("vehicle resources reader")
@@ -72,8 +81,6 @@ public class ImportVehicleInvoicesJobConfig {
                 .build();
     }
 
-    @Bean
-    @StepScope
     public FlatFileItemReader<VehicleDTO> vehicleDTOFlatFileItemReader(){
         return new FlatFileItemReaderBuilder<VehicleDTO>()
                 .name("vehicle reader")
@@ -85,5 +92,9 @@ public class ImportVehicleInvoicesJobConfig {
                 .comments("#")
                 .targetType(VehicleDTO.class)
                 .build();
+    }
+
+    public VirtualThreadTaskExecutor taskExecutor(){
+        return new VirtualThreadTaskExecutor("Custom-Thread-");
     }
 }
