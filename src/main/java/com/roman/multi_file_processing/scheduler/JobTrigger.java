@@ -27,7 +27,6 @@ public class JobTrigger {
         log.info("================> starting the job");
         var jobParameters = new JobParametersBuilder();
         jobParameters.addDate("uniqueness", new Date());
-        jobParameters.addString("input.file.name", "src/main/resources/data");
         JobExecution jobExecution = this.jobLauncher.run(job, jobParameters.toJobParameters());
 
         log.info("job finished with the status: {}", jobExecution.getExitStatus());
