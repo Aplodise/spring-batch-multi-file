@@ -3,7 +3,6 @@ package com.roman.multi_file_processing.listeners;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.batch.core.JobExecution;
 import org.springframework.batch.core.JobExecutionListener;
-import org.springframework.batch.core.StepExecution;
 import org.springframework.stereotype.Component;
 
 @Component
