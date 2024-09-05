@@ -2,6 +2,7 @@ package com.roman.multi_file_processing.storage;
 
 
 import com.roman.multi_file_processing.storage.dto.FileToUpload;
+import com.roman.multi_file_processing.storage.dto.UploadResponse;
 import lombok.SneakyThrows;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
@@ -24,6 +25,6 @@ public class DigitalStorageClient {
                 .contentType(MediaType.APPLICATION_JSON)
                 .body(fileToUpload)
                 .retrieve()
-                .body(String.class);
+                .body(UploadResponse.class).code();
     }
 }
