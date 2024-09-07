@@ -17,7 +17,7 @@ public class DigitalStorageClient {
     private final RestClient restClient = RestClient.create();
 
     @SneakyThrows
-    public String upload(File file){
+    public UploadResponse upload(File file){
         var fileToUpload = new FileToUpload(file.getName(), Files.readAllBytes(file.toPath()));
         return restClient
                 .post()
@@ -25,6 +25,6 @@ public class DigitalStorageClient {
                 .contentType(MediaType.APPLICATION_JSON)
                 .body(fileToUpload)
                 .retrieve()
-                .body(UploadResponse.class).code();
+                .body(UploadResponse.class);
     }
 }

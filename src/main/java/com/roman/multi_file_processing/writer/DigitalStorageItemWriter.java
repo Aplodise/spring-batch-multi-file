@@ -2,6 +2,7 @@ package com.roman.multi_file_processing.writer;
 
 import com.roman.multi_file_processing.dto.UploadFileDTO;
 import com.roman.multi_file_processing.storage.DigitalStorageClient;
+import com.roman.multi_file_processing.storage.dto.UploadResponse;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.batch.core.StepExecution;
@@ -33,7 +34,8 @@ public class DigitalStorageItemWriter implements ItemWriter<UploadFileDTO> {
     }
 
     private String upload(UploadFileDTO item) {
-            return digitalStorageClient.upload(item.file());
+            UploadResponse uploadResponse = digitalStorageClient.upload(item.file());
+            return uploadResponse.code();
     }
 
     @BeforeStep
